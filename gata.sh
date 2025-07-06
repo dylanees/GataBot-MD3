@@ -202,7 +202,7 @@ echo -e "\033[1;35m"
 git clone https://github.com/dylanees/GataBot-MD3.git
 echo -e "\033[01;32m\033[01mLa clonación se ha descargado e instalado correctamente.\nThe clone has been downloaded and installed successfully.\n\033[0m"
 
-echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\nChanging to the repository directory!!\n\033[0m" 
+echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\nChannging to the repository directory!!\n\033[0m" 
 cd GataBot-MD3
 
 echo -e "\e[36m
